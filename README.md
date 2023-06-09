@@ -8,7 +8,8 @@ HOW TO:
 1. Download: https://github.com/AcidAlchamy/Acids-SportTorrent-Renamer/archive/refs/heads/main.zip
 2. Extract somewhere
 3. Update with your actual Paths
-![set_dir](https://github.com/AcidAlchamy/Acids-SportTorrent-Renamer/assets/111721042/0cf0e8c2-ef69-401a-a3b4-45b914173848)
+![set_dir](https://github.com/AcidAlchamy/Acids-SportTorrent-Renamer/assets/111721042/4b972359-9d80-4c68-b102-59630348db4a)
+
 
 
 
