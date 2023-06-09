@@ -1,9 +1,6 @@
 # Acids-SportTorrent-Renamer
 Python script to rename SportTorrents files to TSDB naming convention to appease SportScanner Plex agent for proper metadata parsing
 
-TheSportDB offers 3 styles of naming conventions to work along Plex and Kodi.
-![TSDB-naming-convention](https://github.com/AcidAlchamy/Acids-SportTorrent-Renamer/assets/111721042/3fbff5ed-fbe5-4dda-992a-6f0eca64a34c)
-
 **Requirments:**
 
 _Python 3.0+_
@@ -29,6 +26,9 @@ _pip install csv_
   --Script should now be trying to match & rename your files in video_dir to the data in csv_dir
 
 
+
+TheSportDB offers 3 styles of naming conventions to work along Plex and Kodi.
+![TSDB-naming-convention](https://github.com/AcidAlchamy/Acids-SportTorrent-Renamer/assets/111721042/3fbff5ed-fbe5-4dda-992a-6f0eca64a34c)
 
 The script can extract either of the 3 naming conventions. 
 Simply edit the Renamer.py code and select your desired column to pull the new name from.
