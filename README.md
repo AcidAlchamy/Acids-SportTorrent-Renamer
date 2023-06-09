@@ -52,9 +52,19 @@ I will refresh the Data folder every few days.
 <br>
 
 **Tools:**
+
 ```Organizer.py``` - I made this script with the aim of automatically moving/Organizing files that were freshly renamed.
 currently this script **creates a folder for every league that TSDB covers...which...is 989 leagues or something**...
-Please be prepared for that! OR edit the code in Organizer.py to only handle the Leagues you like. 
+Please be prepared for that! OR edit the code in Organizer.py to only handle the Leagues you like.
+                   - Edit the code in Organizer.py and highlight `'J:` ![Highlight_J](https://github.com/AcidAlchamy/Acids-SportTorrent-Renamer/assets/111721042/4915b5ff-41a8-419f-a3ff-bece2164a561)
+                   -![Ctrl_H_to_Replace](https://github.com/AcidAlchamy/Acids-SportTorrent-Renamer/assets/111721042/94419ea8-c6ae-4cfc-9ac6-3013c4dca379)
+                   - Write new desired Drive letter/location.
+                   - ![Ctrl_Alt_Enter_to_Confirm_Replace](https://github.com/AcidAlchamy/Acids-SportTorrent-Renamer/assets/111721042/886c3773-9437-45f7-a590-7a807bd0628a)
+                   - ![Your_new_File_location](https://github.com/AcidAlchamy/Acids-SportTorrent-Renamer/assets/111721042/be9cd534-384e-4b7e-a5a0-cccef584039e)
+
+
+
+
 
 
 For Sport Torrents, the most consistent naming convention to follow was provided by this [twitter account @SportTorrents](https://twitter.com/SportTorrents); this made the job of making a Renamer much "easier". 
