@@ -23,8 +23,9 @@ _ pip install csv
 3. Update Renamer.py with your actual Paths
 ![set_dir](https://github.com/AcidAlchamy/Acids-SportTorrent-Renamer/assets/111721042/4b972359-9d80-4c68-b102-59630348db4a)
 3. Open Command Prompt (or equal..)
-4. Type: "cd <Location of Acids-SportTorrent-Renamer>"
+4. Type: "cd {Location of Acids-SportTorrent-Renamer}"
 5. Type: "python Renamer.py"
+  
   --Script should now be trying to match & rename your files in video_dir to the data in csv_dir
 
 
