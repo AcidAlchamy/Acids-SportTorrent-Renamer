@@ -6,16 +6,16 @@ TheSportDB offers 3 styles of naming conventions to work along Plex and Kodi.
 
 **Requirments:**
 
-Python 3.0+
+_Python 3.0+_
 
 
 **SETUP ENV:**
 
- pip install csv
+_ pip install csv
  
  pip install os
  
- pip install re
+ pip install re_
 
 **HOW TO:**
 1. Download: https://github.com/AcidAlchamy/Acids-SportTorrent-Renamer/archive/refs/heads/main.zip
