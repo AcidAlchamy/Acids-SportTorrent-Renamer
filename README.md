@@ -38,3 +38,5 @@ To request .csv data for your specific desired league, please visit "https://the
 _(i.e, https://thesportsdb.com/league/4380 - "4380" is the League ID for the NHL)_
 
 I will refresh the Data folder every few days.
+
+For Sport Torrents, the most consistent naming convention to follow was provided by this [twitter account @SportTorrents](https://twitter.com/SportTorrents); this made the job of making a Renamer much "easier". 
