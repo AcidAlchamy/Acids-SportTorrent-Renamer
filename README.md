@@ -58,18 +58,22 @@ currently this script **creates a folder for every league that TSDB covers...whi
 Please be prepared for that! OR edit the code in Organizer.py to only handle the Leagues you like.
 
    **Instructions**
- Edit the code in Organizer.py and highlight `'J:` 
+ Edit the code in Organizer.py and highlight `'J:`
+ 
 ![Highlight_J](https://github.com/AcidAlchamy/Acids-SportTorrent-Renamer/assets/111721042/4915b5ff-41a8-419f-a3ff-bece2164a561)
 
 Toggle Ctrl + H to "Replace"
+
 ![Ctrl_H_to_Replace](https://github.com/AcidAlchamy/Acids-SportTorrent-Renamer/assets/111721042/94419ea8-c6ae-4cfc-9ac6-3013c4dca379)
 
 Write new desired Drive letter/location.
 
 Toggle Ctrl + Alt + Enter to Confirm replacement.
+
 ![Ctrl_Alt_Enter_to_Confirm_Replace](https://github.com/AcidAlchamy/Acids-SportTorrent-Renamer/assets/111721042/886c3773-9437-45f7-a590-7a807bd0628a)
 
 Your Code should be updated:
+
 ![Your_new_File_location](https://github.com/AcidAlchamy/Acids-SportTorrent-Renamer/assets/111721042/be9cd534-384e-4b7e-a5a0-cccef584039e)
                    
                    
