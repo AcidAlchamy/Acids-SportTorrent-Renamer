@@ -4,6 +4,11 @@ Python script to rename SportTorrents files to TSDB naming convention to appease
 TheSportDB offers 3 styles of naming conventions to work along Plex and Kodi.
 ![TSDB-naming-convention](https://github.com/AcidAlchamy/Acids-SportTorrent-Renamer/assets/111721042/3fbff5ed-fbe5-4dda-992a-6f0eca64a34c)
 
+**Requirments:**
+
+Python 3.0+
+
+
 **SETUP ENV:**
 
  pip install csv
