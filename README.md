@@ -1,9 +1,9 @@
 # Acids-SportTorrent-Renamer
 Python script to rename SportTorrents files to TSDB naming convention to appease SportScanner Plex agent for proper metadata parsing
 
-- ![#f03c15]**Disclaimer:** `#f03c15`
-- ![#f03c15]This script is not perfect. Im still working on the logic to get the matching more presice. But overall, it does a good job. `#f03c15`
-- ![#f03c15]Please double check your results and report back specific files that do not get named. `#f03c15`
+![#f03c15]**Disclaimer:** `#f03c15`
+![#f03c15]This script is not perfect. Im still working on the logic to get the matching more presice. But overall, it does a good job. `#f03c15`
+![#f03c15]Please double check your results and report back specific files that do not get named. `#f03c15`
 
 
 **Requirments:**
