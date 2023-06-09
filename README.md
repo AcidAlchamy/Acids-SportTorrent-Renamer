@@ -17,16 +17,16 @@
 
 **Requirments:**
 
-_Python 3.0+_
+    _Python 3.0+_
 <br>
 
 **SETUP ENV:**
 
-_pip install csv_
+      _pip install csv_
  
- _pip install os_
+      _pip install os_
  
- _pip install re_
+      _pip install re_
 <br>
 
 **HOW TO:**
