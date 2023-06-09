@@ -2,7 +2,7 @@
 Python script to rename SportTorrents files to TSDB naming convention to appease SportScanner Plex agent for proper metadata parsing
 
 ```diff
-                                   - **D i s c l a i m e r :**
+                                    **D i s c l a i m e r :**
 - This script is not perfect. Im still working on the logic to get the matching more presice. But overall, it does a good job.
 - Please double check your results and report back specific files that do not get named.
 ```
