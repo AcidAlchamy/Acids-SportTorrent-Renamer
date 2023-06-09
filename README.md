@@ -11,11 +11,11 @@ _Python 3.0+_
 
 **SETUP ENV:**
 
-_ pip install csv
+_pip install csv_
  
- pip install os
+ _pip install os_
  
- pip install re_
+ _pip install re_
 
 **HOW TO:**
 1. Download: https://github.com/AcidAlchamy/Acids-SportTorrent-Renamer/archive/refs/heads/main.zip
