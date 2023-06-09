@@ -5,7 +5,8 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/{username}/{repo-name})
 ![GitHub forks](https://img.shields.io/github/forks/{username}/{repo-name}?style=social)
 ![GitHub Repo stars](https://img.shields.io/github/stars/{username}/{repo-name}?style=social)
-Python script to rename SportTorrents files to TSDB naming convention to appease SportScanner Plex agent for proper metadata parsing
+
+**_Python script to rename SportTorrents files to TSDB naming convention to appease SportScanner Plex agent for proper metadata parsing_**
 
 ```diff
                                     **D i s c l a i m e r :**
