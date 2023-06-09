@@ -51,5 +51,10 @@ I will refresh the Data folder every few days.
 
 <br>
 
+**Tools:**
+```Diff - Organizer.py``` - I made this script with the aim of automatically moving/Organizing files that were freshly renamed.
+currently this script **creates a folder for every league that TSDB covers...which...is 989 leagues or something**...
+Please be prepared for that! OR edit the code in Organizer.py to only handle the Leagues you like. 
+
 
 For Sport Torrents, the most consistent naming convention to follow was provided by this [twitter account @SportTorrents](https://twitter.com/SportTorrents); this made the job of making a Renamer much "easier". 
