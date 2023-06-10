@@ -67,23 +67,23 @@ Please be prepared for that! OR edit the code in Organizer.py to only handle the
    **Instructions:**
 
 
-`1. Edit the code in Organizer.py and highlight `'J:`
+1. Edit the code in Organizer.py and highlight `'J:`
  
-![Highlight_J](https://github.com/AcidAlchamy/Acids-SportTorrent-Renamer/assets/111721042/4915b5ff-41a8-419f-a3ff-bece2164a561)`
+![Highlight_J](https://github.com/AcidAlchamy/Acids-SportTorrent-Renamer/assets/111721042/4915b5ff-41a8-419f-a3ff-bece2164a561)
 
-`2. Toggle Ctrl + H to "Replace"
+2. Toggle Ctrl + H to "Replace"
 
-![Ctrl_H_to_Replace](https://github.com/AcidAlchamy/Acids-SportTorrent-Renamer/assets/111721042/94419ea8-c6ae-4cfc-9ac6-3013c4dca379)`
+![Ctrl_H_to_Replace](https://github.com/AcidAlchamy/Acids-SportTorrent-Renamer/assets/111721042/94419ea8-c6ae-4cfc-9ac6-3013c4dca379)
 
-`3. Write new desired Drive letter/location.`
+3. Write new desired Drive letter/location.
 
-`4. Toggle Ctrl + Alt + Enter to Confirm replacement.
+4. Toggle Ctrl + Alt + Enter to Confirm replacement.
 
-![Ctrl_Alt_Enter_to_Confirm_Replace](https://github.com/AcidAlchamy/Acids-SportTorrent-Renamer/assets/111721042/886c3773-9437-45f7-a590-7a807bd0628a)`
+![Ctrl_Alt_Enter_to_Confirm_Replace](https://github.com/AcidAlchamy/Acids-SportTorrent-Renamer/assets/111721042/886c3773-9437-45f7-a590-7a807bd0628a)
 
-`5. Your Code should be updated:
+`5. Your Code should be updated:`
 
-![Your_new_File_location](https://github.com/AcidAlchamy/Acids-SportTorrent-Renamer/assets/111721042/be9cd534-384e-4b7e-a5a0-cccef584039e)`
+`![Your_new_File_location](https://github.com/AcidAlchamy/Acids-SportTorrent-Renamer/assets/111721042/be9cd534-384e-4b7e-a5a0-cccef584039e)`
                    
                    
                    
