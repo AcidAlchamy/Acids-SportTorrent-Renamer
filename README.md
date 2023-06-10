@@ -81,9 +81,9 @@ Please be prepared for that! OR edit the code in Organizer.py to only handle the
 
 ![Ctrl_Alt_Enter_to_Confirm_Replace](https://github.com/AcidAlchamy/Acids-SportTorrent-Renamer/assets/111721042/886c3773-9437-45f7-a590-7a807bd0628a)
 
-`5. Your Code should be updated:`
+5. Your Code should be updated:
 
-`![Your_new_File_location](https://github.com/AcidAlchamy/Acids-SportTorrent-Renamer/assets/111721042/be9cd534-384e-4b7e-a5a0-cccef584039e)`
+![Your_new_File_location](https://github.com/AcidAlchamy/Acids-SportTorrent-Renamer/assets/111721042/be9cd534-384e-4b7e-a5a0-cccef584039e)
                    
                    
                    
