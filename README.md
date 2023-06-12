@@ -1,10 +1,10 @@
 # Acids-SportTorrent-Renamer
-![GitHub all releases](https://img.shields.io/github/downloads/{username}/{repo-name}/total)
-![GitHub language count](https://img.shields.io/github/languages/count/{username}/{repo-name})
-![GitHub top language](https://img.shields.io/github/languages/top/{username}/{repo-name}?color=yellow)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/{username}/{repo-name})
-![GitHub forks](https://img.shields.io/github/forks/{username}/{repo-name}?style=social)
-![GitHub Repo stars](https://img.shields.io/github/stars/{username}/{repo-name}?style=social)
+![GitHub all releases](https://img.shields.io/github/downloads/{AcidAlchamy}/{Acids-SportTorrent-Renamer}/total)
+![GitHub language count](https://img.shields.io/github/languages/count/{AcidAlchamy}/{Acids-SportTorrent-Renamer})
+![GitHub top language](https://img.shields.io/github/languages/top/{AcidAlchamy}/{Acids-SportTorrent-Renamer}?color=yellow)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/{AcidAlchamy}/{Acids-SportTorrent-Renamer})
+![GitHub forks](https://img.shields.io/github/forks/{AcidAlchamy}/{Acids-SportTorrent-Renamer}?style=social)
+![GitHub Repo stars](https://img.shields.io/github/stars/{AcidAlchamy}/{Acids-SportTorrent-Renamer}?style=social)
 
 **_Python script to rename SportTorrents files to TSDB naming convention to appease SportScanner Plex agent for proper metadata parsing_**
 
